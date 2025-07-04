@@ -1,0 +1,1351 @@
+intensity,duration,activity
+3.2,3.08,walking
+3.0,5.63,walking
+3.1,5.47,walking
+3.1,3.6,walking
+3.4,5.75,walking
+3.4,5.35,walking
+3.3,3.18,walking
+1.9,4.41,walking
+2.8,5.11,walking
+3.4,5.74,walking
+2.0,3.24,walking
+2.1,5.46,walking
+1.6,2.79,walking
+3.4,4.72,walking
+2.7,5.38,walking
+2.1,3.31,walking
+2.1,3.21,walking
+3.5,5.64,walking
+3.1,5.61,walking
+3.8,5.92,walking
+3.2,3.32,walking
+2.2,5.79,walking
+3.8,2.51,walking
+1.7,4.69,walking
+3.5,4.5,walking
+3.5,4.47,walking
+1.9,4.52,walking
+2.2,5.57,walking
+2.5,2.66,walking
+2.1,4.1,walking
+3.8,2.89,walking
+4.0,2.8,walking
+2.6,4.13,walking
+1.8,4.93,walking
+2.5,5.84,walking
+2.0,3.82,walking
+3.9,5.67,walking
+2.4,3.93,walking
+3.8,5.89,walking
+2.4,3.58,walking
+1.9,3.97,walking
+2.8,4.87,walking
+1.8,4.32,walking
+2.3,4.45,walking
+1.5,3.69,walking
+2.0,5.74,walking
+2.8,4.59,walking
+2.5,2.94,walking
+3.3,5.71,walking
+2.1,3.27,walking
+6.7,2.07,running
+9.0,2.63,running
+8.6,1.28,running
+8.7,2.25,running
+7.4,1.74,running
+8.4,1.93,running
+6.9,1.18,running
+7.2,2.9,running
+7.3,2.81,running
+6.2,2.99,running
+8.3,1.7,running
+6.0,1.66,running
+6.9,2.55,running
+6.3,2.79,running
+7.6,1.19,running
+8.8,2.36,running
+7.3,1.73,running
+7.9,1.2,running
+6.5,2.1,running
+7.0,1.39,running
+7.5,1.79,running
+6.8,1.03,running
+6.9,2.28,running
+7.8,1.45,running
+7.9,1.28,running
+7.1,2.45,running
+8.9,2.64,running
+6.7,2.15,running
+6.2,1.52,running
+7.5,1.64,running
+8.4,1.05,running
+7.0,1.17,running
+7.9,1.36,running
+7.3,1.27,running
+7.7,2.44,running
+6.3,1.33,running
+7.2,2.92,running
+7.3,2.3,running
+8.5,1.73,running
+8.4,1.17,running
+8.7,2.91,running
+6.6,2.13,running
+8.8,1.38,running
+8.2,2.65,running
+8.3,1.41,running
+6.6,2.99,running
+7.5,2.13,running
+6.6,2.18,running
+7.1,2.37,running
+8.4,2.63,running
+2.3,1.16,footsteps
+1.8,1.88,footsteps
+1.3,1.36,footsteps
+2.6,0.7,footsteps
+1.4,1.89,footsteps
+2.2,0.91,footsteps
+1.1,0.57,footsteps
+2.9,1.07,footsteps
+2.5,0.73,footsteps
+1.7,1.79,footsteps
+2.3,1.62,footsteps
+2.9,1.97,footsteps
+2.3,1.27,footsteps
+2.1,0.6,footsteps
+2.3,1.2,footsteps
+1.6,0.57,footsteps
+1.4,0.92,footsteps
+1.9,1.27,footsteps
+2.7,1.81,footsteps
+1.0,1.65,footsteps
+2.5,1.05,footsteps
+2.7,1.96,footsteps
+1.3,0.6,footsteps
+2.7,0.77,footsteps
+1.1,0.57,footsteps
+1.2,1.3,footsteps
+3.0,1.11,footsteps
+2.0,0.56,footsteps
+2.1,1.46,footsteps
+1.8,1.63,footsteps
+2.8,0.81,footsteps
+1.8,1.28,footsteps
+1.4,1.81,footsteps
+1.0,1.26,footsteps
+1.7,1.53,footsteps
+2.8,1.52,footsteps
+1.1,1.61,footsteps
+1.6,1.92,footsteps
+2.3,0.88,footsteps
+2.3,1.19,footsteps
+1.7,1.42,footsteps
+2.5,1.28,footsteps
+2.5,0.7,footsteps
+2.8,0.95,footsteps
+1.4,0.63,footsteps
+1.8,1.98,footsteps
+1.2,1.5,footsteps
+3.0,0.63,footsteps
+2.6,1.92,footsteps
+1.2,0.73,footsteps
+6.4,2.92,dancing
+5.9,1.58,dancing
+5.5,2.22,dancing
+6.0,3.23,dancing
+5.4,1.72,dancing
+4.4,2.26,dancing
+6.6,2.21,dancing
+5.8,1.28,dancing
+4.8,2.46,dancing
+6.6,3.22,dancing
+6.9,2.25,dancing
+5.2,3.63,dancing
+6.0,2.14,dancing
+5.5,2.11,dancing
+5.4,1.34,dancing
+4.7,1.33,dancing
+6.2,1.2,dancing
+4.1,2.6,dancing
+5.9,1.32,dancing
+5.1,2.97,dancing
+5.9,1.06,dancing
+5.3,1.79,dancing
+4.3,2.25,dancing
+6.0,3.67,dancing
+4.8,3.92,dancing
+4.1,2.94,dancing
+6.8,1.85,dancing
+6.9,3.99,dancing
+5.0,2.85,dancing
+6.7,3.02,dancing
+4.3,2.74,dancing
+4.5,3.87,dancing
+4.9,2.83,dancing
+5.2,1.57,dancing
+4.4,1.72,dancing
+6.8,3.82,dancing
+4.0,3.47,dancing
+5.7,3.74,dancing
+4.0,3.34,dancing
+6.0,3.71,dancing
+6.4,2.31,dancing
+6.1,1.72,dancing
+4.3,2.97,dancing
+6.2,3.58,dancing
+5.1,2.94,dancing
+5.7,3.5,dancing
+5.0,3.86,dancing
+5.3,2.64,dancing
+4.5,1.79,dancing
+4.7,1.78,dancing
+9.0,0.79,jumping
+7.6,1.93,jumping
+9.6,1.53,jumping
+8.1,1.51,jumping
+8.7,1.19,jumping
+7.9,1.07,jumping
+7.1,1.2,jumping
+7.4,1.93,jumping
+8.4,1.25,jumping
+8.8,1.17,jumping
+6.6,1.17,jumping
+8.5,1.13,jumping
+9.2,1.08,jumping
+6.7,1.03,jumping
+6.1,1.64,jumping
+8.5,1.38,jumping
+9.9,0.62,jumping
+7.6,1.92,jumping
+9.0,1.65,jumping
+9.5,1.12,jumping
+6.5,0.94,jumping
+6.3,0.79,jumping
+7.7,1.32,jumping
+6.7,0.97,jumping
+8.1,1.16,jumping
+7.3,0.86,jumping
+9.6,1.3,jumping
+8.9,1.13,jumping
+7.5,1.99,jumping
+7.9,1.98,jumping
+9.5,1.64,jumping
+6.4,0.99,jumping
+9.1,1.52,jumping
+9.7,1.08,jumping
+8.1,0.64,jumping
+6.6,0.72,jumping
+9.8,0.84,jumping
+9.7,0.7,jumping
+7.8,1.07,jumping
+6.3,1.68,jumping
+7.3,0.68,jumping
+6.5,0.78,jumping
+7.5,0.57,jumping
+8.8,0.56,jumping
+8.8,1.81,jumping
+6.1,0.63,jumping
+7.9,0.62,jumping
+6.2,0.58,jumping
+6.5,1.87,jumping
+6.1,1.08,jumping
+9.1,1.14,soccer kick
+7.9,0.88,soccer kick
+7.3,0.46,soccer kick
+9.7,0.88,soccer kick
+7.5,0.49,soccer kick
+7.4,0.48,soccer kick
+7.7,0.41,soccer kick
+9.0,1.35,soccer kick
+8.0,0.37,soccer kick
+9.8,0.87,soccer kick
+9.2,1.06,soccer kick
+9.6,0.62,soccer kick
+7.1,1.0,soccer kick
+8.7,0.87,soccer kick
+8.5,1.01,soccer kick
+7.8,1.38,soccer kick
+8.4,0.5,soccer kick
+7.5,0.97,soccer kick
+8.7,1.13,soccer kick
+9.5,0.37,soccer kick
+9.5,1.0,soccer kick
+9.1,1.12,soccer kick
+7.4,0.55,soccer kick
+7.7,0.62,soccer kick
+9.9,0.81,soccer kick
+8.7,0.92,soccer kick
+8.5,1.19,soccer kick
+9.2,1.25,soccer kick
+7.4,0.32,soccer kick
+9.0,0.42,soccer kick
+8.7,0.5,soccer kick
+9.6,1.35,soccer kick
+8.6,0.54,soccer kick
+8.2,0.8,soccer kick
+7.1,1.22,soccer kick
+9.6,0.68,soccer kick
+9.0,1.12,soccer kick
+7.3,0.75,soccer kick
+7.8,1.11,soccer kick
+8.2,0.52,soccer kick
+8.8,0.34,soccer kick
+8.9,0.5,soccer kick
+7.7,1.05,soccer kick
+9.1,0.77,soccer kick
+9.6,0.57,soccer kick
+8.7,1.07,soccer kick
+9.2,0.74,soccer kick
+8.9,0.53,soccer kick
+8.4,0.56,soccer kick
+8.0,1.14,soccer kick
+5.5,1.54,basketball dribble
+4.3,1.64,basketball dribble
+4.4,1.55,basketball dribble
+3.7,2.22,basketball dribble
+5.7,1.71,basketball dribble
+3.3,2.41,basketball dribble
+5.0,1.9,basketball dribble
+3.4,1.38,basketball dribble
+5.4,2.46,basketball dribble
+4.3,1.41,basketball dribble
+5.1,0.69,basketball dribble
+3.8,2.43,basketball dribble
+4.2,1.78,basketball dribble
+3.4,0.96,basketball dribble
+4.6,1.55,basketball dribble
+5.0,1.44,basketball dribble
+3.1,2.01,basketball dribble
+4.6,0.51,basketball dribble
+3.5,1.08,basketball dribble
+3.3,0.8,basketball dribble
+4.0,2.19,basketball dribble
+3.4,2.45,basketball dribble
+3.1,1.86,basketball dribble
+4.0,1.92,basketball dribble
+4.9,0.54,basketball dribble
+5.2,1.47,basketball dribble
+4.9,2.06,basketball dribble
+5.6,2.02,basketball dribble
+5.1,0.89,basketball dribble
+5.1,1.54,basketball dribble
+3.2,1.25,basketball dribble
+3.3,1.77,basketball dribble
+3.8,2.0,basketball dribble
+4.5,0.89,basketball dribble
+3.5,1.7,basketball dribble
+4.6,0.82,basketball dribble
+3.7,1.82,basketball dribble
+5.7,0.98,basketball dribble
+4.1,2.08,basketball dribble
+5.8,1.95,basketball dribble
+3.3,2.14,basketball dribble
+3.6,1.65,basketball dribble
+4.5,2.4,basketball dribble
+5.9,0.92,basketball dribble
+3.2,2.16,basketball dribble
+3.6,1.06,basketball dribble
+3.3,1.65,basketball dribble
+3.4,1.17,basketball dribble
+5.8,1.06,basketball dribble
+3.6,2.26,basketball dribble
+7.1,0.96,boxing
+6.1,1.22,boxing
+7.2,1.35,boxing
+8.8,1.48,boxing
+8.6,1.4,boxing
+7.8,1.75,boxing
+8.0,0.47,boxing
+8.9,0.95,boxing
+7.0,1.61,boxing
+6.8,1.84,boxing
+6.8,1.13,boxing
+6.9,0.6,boxing
+7.6,1.37,boxing
+6.2,1.01,boxing
+6.4,1.34,boxing
+8.4,1.35,boxing
+6.8,1.33,boxing
+8.7,1.14,boxing
+6.0,0.76,boxing
+8.7,0.6,boxing
+7.2,0.73,boxing
+7.0,0.95,boxing
+8.4,0.61,boxing
+8.0,0.65,boxing
+6.8,0.49,boxing
+7.3,0.92,boxing
+7.6,0.57,boxing
+7.6,1.72,boxing
+8.0,0.55,boxing
+6.8,1.61,boxing
+8.7,0.54,boxing
+6.2,0.92,boxing
+8.5,1.29,boxing
+6.3,0.47,boxing
+8.5,1.47,boxing
+7.5,0.65,boxing
+6.1,0.65,boxing
+7.7,1.63,boxing
+7.5,1.03,boxing
+8.3,1.23,boxing
+7.8,0.8,boxing
+6.2,0.79,boxing
+6.6,1.51,boxing
+8.7,0.79,boxing
+6.5,0.58,boxing
+7.1,1.71,boxing
+8.3,1.91,boxing
+7.0,0.49,boxing
+8.8,0.5,boxing
+6.1,0.92,boxing
+5.8,2.29,gym rep
+7.8,2.86,gym rep
+6.6,1.34,gym rep
+7.1,2.37,gym rep
+5.3,2.94,gym rep
+7.7,1.3,gym rep
+6.4,1.24,gym rep
+7.6,2.39,gym rep
+7.0,1.82,gym rep
+5.5,2.94,gym rep
+5.5,2.1,gym rep
+5.6,2.77,gym rep
+7.0,1.23,gym rep
+6.9,1.91,gym rep
+6.4,1.41,gym rep
+6.1,2.37,gym rep
+5.5,2.15,gym rep
+7.1,1.8,gym rep
+7.9,2.32,gym rep
+5.9,2.33,gym rep
+6.1,1.17,gym rep
+7.8,2.55,gym rep
+6.6,2.31,gym rep
+7.4,1.09,gym rep
+5.8,1.33,gym rep
+6.5,2.63,gym rep
+6.5,1.07,gym rep
+7.9,2.8,gym rep
+5.6,1.89,gym rep
+5.8,1.54,gym rep
+6.5,2.0,gym rep
+5.5,2.02,gym rep
+6.9,1.71,gym rep
+5.8,2.47,gym rep
+5.7,1.02,gym rep
+5.5,2.98,gym rep
+5.4,2.46,gym rep
+6.0,1.6,gym rep
+6.0,2.71,gym rep
+7.7,1.25,gym rep
+7.2,2.81,gym rep
+5.8,2.57,gym rep
+5.5,2.12,gym rep
+5.4,1.99,gym rep
+7.4,2.79,gym rep
+7.3,2.98,gym rep
+7.6,1.33,gym rep
+5.8,2.92,gym rep
+7.3,1.03,gym rep
+7.4,2.02,gym rep
+3.8,1.35,cheering
+2.8,2.94,cheering
+4.0,2.23,cheering
+5.2,3.18,cheering
+3.9,1.27,cheering
+2.9,2.0,cheering
+2.1,3.43,cheering
+3.1,1.32,cheering
+3.3,2.53,cheering
+4.3,2.7,cheering
+5.6,2.52,cheering
+4.8,1.18,cheering
+2.5,2.39,cheering
+2.2,3.0,cheering
+2.5,2.73,cheering
+4.0,2.48,cheering
+3.5,3.18,cheering
+4.6,2.88,cheering
+3.6,2.5,cheering
+5.0,2.71,cheering
+3.8,1.24,cheering
+5.1,2.53,cheering
+5.6,1.9,cheering
+5.1,3.09,cheering
+4.1,1.13,cheering
+4.6,3.44,cheering
+2.5,1.81,cheering
+3.7,1.99,cheering
+3.2,3.34,cheering
+3.9,1.45,cheering
+4.5,1.81,cheering
+5.9,3.09,cheering
+5.2,1.28,cheering
+3.3,1.2,cheering
+2.6,1.74,cheering
+5.2,1.04,cheering
+5.8,3.16,cheering
+5.2,3.09,cheering
+4.6,2.71,cheering
+5.1,2.87,cheering
+5.6,2.38,cheering
+5.1,3.17,cheering
+4.8,2.43,cheering
+4.1,2.82,cheering
+5.2,2.63,cheering
+3.6,2.99,cheering
+3.6,2.92,cheering
+5.8,1.3,cheering
+3.2,3.27,cheering
+4.4,1.09,cheering
+5.9,1.47,clapping
+4.0,0.92,clapping
+5.9,0.64,clapping
+4.0,1.17,clapping
+3.3,0.96,clapping
+3.3,0.51,clapping
+3.9,0.94,clapping
+3.3,0.71,clapping
+3.8,0.99,clapping
+4.4,1.16,clapping
+5.1,1.38,clapping
+5.8,1.19,clapping
+4.5,1.14,clapping
+3.9,1.36,clapping
+5.0,1.39,clapping
+5.5,0.6,clapping
+5.4,1.27,clapping
+3.9,0.84,clapping
+4.2,1.03,clapping
+4.6,0.56,clapping
+5.2,1.36,clapping
+3.7,1.12,clapping
+5.1,0.56,clapping
+4.9,0.61,clapping
+4.9,1.03,clapping
+6.0,0.7,clapping
+5.6,1.36,clapping
+5.2,0.94,clapping
+5.1,0.61,clapping
+3.2,1.04,clapping
+4.2,0.76,clapping
+5.9,1.14,clapping
+4.0,1.42,clapping
+5.3,0.95,clapping
+5.0,0.95,clapping
+4.1,1.5,clapping
+5.4,0.67,clapping
+4.4,1.11,clapping
+5.9,0.81,clapping
+6.0,0.79,clapping
+3.0,0.92,clapping
+4.0,1.3,clapping
+5.9,1.33,clapping
+3.7,0.57,clapping
+4.1,0.52,clapping
+5.4,0.55,clapping
+4.7,0.81,clapping
+5.6,1.03,clapping
+3.7,0.52,clapping
+5.0,1.04,clapping
+2.7,3.26,screaming
+2.3,3.29,screaming
+2.0,3.94,screaming
+2.1,4.07,screaming
+2.2,3.61,screaming
+2.9,3.64,screaming
+2.7,2.56,screaming
+2.8,3.54,screaming
+1.3,2.33,screaming
+2.7,4.0,screaming
+1.6,2.41,screaming
+2.0,4.08,screaming
+2.1,2.03,screaming
+1.8,4.1,screaming
+2.9,4.09,screaming
+1.0,4.35,screaming
+1.7,3.67,screaming
+1.7,4.44,screaming
+1.6,4.81,screaming
+2.9,2.57,screaming
+2.8,3.73,screaming
+2.6,3.12,screaming
+1.2,3.3,screaming
+1.7,4.27,screaming
+1.0,2.02,screaming
+1.6,2.7,screaming
+1.7,2.15,screaming
+1.5,3.96,screaming
+1.5,3.67,screaming
+2.1,3.61,screaming
+2.4,2.84,screaming
+2.6,4.35,screaming
+2.2,4.69,screaming
+2.1,3.79,screaming
+1.6,4.47,screaming
+1.3,3.59,screaming
+1.6,2.21,screaming
+1.7,4.95,screaming
+1.2,4.73,screaming
+1.9,2.2,screaming
+2.5,2.39,screaming
+1.8,4.83,screaming
+1.2,4.15,screaming
+2.3,3.57,screaming
+2.0,3.67,screaming
+2.8,3.64,screaming
+2.4,4.14,screaming
+2.5,3.74,screaming
+2.7,4.63,screaming
+2.4,4.17,screaming
+7.9,0.8,punching
+7.5,0.78,punching
+8.5,0.66,punching
+7.3,0.89,punching
+9.3,0.49,punching
+9.0,0.47,punching
+7.4,0.73,punching
+7.5,0.58,punching
+7.3,0.44,punching
+7.2,0.7,punching
+9.2,0.64,punching
+7.5,0.43,punching
+6.9,0.49,punching
+7.0,0.87,punching
+9.1,0.63,punching
+9.3,0.85,punching
+7.2,0.52,punching
+7.3,0.77,punching
+8.5,0.67,punching
+7.4,0.84,punching
+8.1,0.95,punching
+8.4,0.94,punching
+7.3,0.66,punching
+9.1,0.41,punching
+7.2,0.33,punching
+8.8,0.94,punching
+9.0,0.98,punching
+9.2,0.84,punching
+7.9,0.32,punching
+8.7,0.32,punching
+6.6,0.52,punching
+7.4,0.52,punching
+9.3,0.68,punching
+6.7,0.93,punching
+8.8,0.92,punching
+8.9,0.65,punching
+8.2,0.78,punching
+8.3,0.78,punching
+8.9,0.84,punching
+6.8,0.79,punching
+8.9,0.6,punching
+9.1,0.61,punching
+6.8,0.76,punching
+7.7,0.4,punching
+8.4,0.5,punching
+7.9,0.6,punching
+8.9,0.61,punching
+7.1,0.54,punching
+8.1,0.73,punching
+7.8,0.59,punching
+5.2,0.42,dodging
+6.8,1.25,dodging
+7.2,0.61,dodging
+5.8,0.74,dodging
+6.1,1.0,dodging
+5.9,0.62,dodging
+7.5,1.15,dodging
+6.3,0.93,dodging
+7.5,0.77,dodging
+5.2,0.52,dodging
+7.6,0.73,dodging
+5.5,0.78,dodging
+7.3,0.76,dodging
+6.5,0.51,dodging
+8.0,0.74,dodging
+5.2,1.26,dodging
+7.0,0.67,dodging
+7.3,1.28,dodging
+7.3,1.23,dodging
+6.7,1.02,dodging
+6.3,0.93,dodging
+7.8,1.17,dodging
+7.1,0.8,dodging
+7.5,0.76,dodging
+7.0,0.47,dodging
+5.5,1.06,dodging
+5.9,1.35,dodging
+6.0,1.29,dodging
+5.3,1.01,dodging
+6.0,1.04,dodging
+5.6,0.79,dodging
+5.6,0.7,dodging
+6.7,0.9,dodging
+5.1,0.88,dodging
+7.2,1.06,dodging
+8.0,1.49,dodging
+7.1,0.41,dodging
+7.2,0.96,dodging
+5.2,1.35,dodging
+7.4,1.06,dodging
+7.7,0.94,dodging
+6.0,0.46,dodging
+6.2,0.65,dodging
+5.1,1.41,dodging
+7.1,0.97,dodging
+5.4,0.56,dodging
+6.2,0.84,dodging
+5.6,0.64,dodging
+6.9,0.59,dodging
+7.8,0.99,dodging
+7.3,2.43,sparring
+7.5,2.45,sparring
+6.3,1.93,sparring
+6.9,2.26,sparring
+8.0,1.26,sparring
+6.8,1.68,sparring
+8.0,1.82,sparring
+8.4,2.49,sparring
+7.7,2.25,sparring
+6.7,1.18,sparring
+7.5,2.09,sparring
+8.9,1.29,sparring
+9.0,2.42,sparring
+8.5,1.29,sparring
+7.4,2.48,sparring
+6.1,1.66,sparring
+7.6,1.73,sparring
+7.3,2.13,sparring
+6.4,2.29,sparring
+6.9,1.88,sparring
+6.3,2.08,sparring
+8.2,2.46,sparring
+7.7,1.94,sparring
+8.3,2.42,sparring
+6.7,1.78,sparring
+6.7,1.42,sparring
+7.4,1.42,sparring
+8.5,1.9,sparring
+7.2,2.0,sparring
+7.6,1.4,sparring
+6.8,1.97,sparring
+8.9,1.2,sparring
+6.8,1.34,sparring
+6.3,2.02,sparring
+6.6,2.07,sparring
+8.1,2.05,sparring
+8.8,1.02,sparring
+6.7,1.82,sparring
+6.0,1.31,sparring
+6.1,1.24,sparring
+6.2,1.55,sparring
+8.9,1.73,sparring
+6.3,1.16,sparring
+8.0,2.1,sparring
+7.4,2.27,sparring
+6.7,2.48,sparring
+6.0,1.1,sparring
+7.8,1.67,sparring
+7.2,2.07,sparring
+7.0,1.39,sparring
+9.6,1.63,fighting
+8.5,2.51,fighting
+9.7,2.32,fighting
+8.0,2.05,fighting
+8.6,2.82,fighting
+8.6,1.18,fighting
+9.7,2.58,fighting
+9.0,1.93,fighting
+7.9,2.63,fighting
+9.7,1.65,fighting
+7.9,1.5,fighting
+8.3,2.18,fighting
+7.6,2.72,fighting
+9.8,2.43,fighting
+8.7,2.7,fighting
+7.0,2.41,fighting
+7.2,1.07,fighting
+7.3,2.16,fighting
+9.2,1.26,fighting
+9.8,2.74,fighting
+8.7,2.01,fighting
+8.1,2.05,fighting
+9.4,1.41,fighting
+7.1,2.82,fighting
+8.2,1.36,fighting
+9.4,2.35,fighting
+7.8,1.54,fighting
+8.8,2.12,fighting
+9.6,2.89,fighting
+7.6,1.67,fighting
+7.4,1.82,fighting
+8.2,1.79,fighting
+9.6,2.99,fighting
+9.4,2.01,fighting
+9.6,1.34,fighting
+9.6,1.49,fighting
+8.0,2.93,fighting
+7.5,1.5,fighting
+8.9,1.23,fighting
+9.6,1.87,fighting
+9.2,2.8,fighting
+7.6,1.32,fighting
+8.2,1.31,fighting
+8.0,1.89,fighting
+7.9,1.3,fighting
+9.9,2.55,fighting
+9.4,2.83,fighting
+9.0,1.05,fighting
+9.7,2.67,fighting
+8.5,2.03,fighting
+8.9,24.15,airplane
+9.9,19.28,airplane
+8.9,24.27,airplane
+9.4,27.21,airplane
+8.6,15.88,airplane
+8.6,29.09,airplane
+9.0,14.23,airplane
+9.3,20.25,airplane
+9.8,10.09,airplane
+8.1,13.78,airplane
+8.3,22.81,airplane
+8.4,20.27,airplane
+9.7,21.98,airplane
+8.6,23.1,airplane
+8.3,23.8,airplane
+9.1,18.12,airplane
+9.6,17.85,airplane
+9.4,10.34,airplane
+9.4,16.78,airplane
+9.6,23.68,airplane
+9.4,18.65,airplane
+9.6,13.47,airplane
+8.5,10.81,airplane
+8.8,20.39,airplane
+9.8,26.39,airplane
+9.9,12.3,airplane
+9.0,27.49,airplane
+8.6,16.11,airplane
+9.7,10.08,airplane
+9.1,14.58,airplane
+9.5,23.61,airplane
+9.8,25.93,airplane
+9.5,28.18,airplane
+9.4,13.18,airplane
+9.9,21.6,airplane
+9.4,25.72,airplane
+8.3,26.83,airplane
+8.5,21.82,airplane
+9.2,22.36,airplane
+8.4,19.47,airplane
+9.2,10.03,airplane
+10.0,24.65,airplane
+8.0,24.61,airplane
+9.4,15.21,airplane
+8.5,24.94,airplane
+9.6,11.23,airplane
+9.9,14.24,airplane
+8.4,10.31,airplane
+9.6,16.82,airplane
+9.7,12.3,airplane
+8.0,19.11,helicopter
+8.0,9.04,helicopter
+8.0,9.38,helicopter
+9.3,19.22,helicopter
+8.6,9.56,helicopter
+9.2,17.1,helicopter
+9.0,12.12,helicopter
+8.1,17.8,helicopter
+8.5,12.23,helicopter
+9.6,9.0,helicopter
+9.1,17.23,helicopter
+8.5,15.66,helicopter
+7.8,15.45,helicopter
+8.9,11.54,helicopter
+8.8,12.5,helicopter
+9.0,11.95,helicopter
+9.2,12.34,helicopter
+8.8,9.74,helicopter
+8.0,12.05,helicopter
+7.6,10.7,helicopter
+8.8,17.53,helicopter
+9.3,12.1,helicopter
+9.2,10.16,helicopter
+8.7,17.73,helicopter
+9.0,11.66,helicopter
+8.4,14.84,helicopter
+8.0,9.79,helicopter
+8.3,8.69,helicopter
+7.6,15.91,helicopter
+8.3,11.52,helicopter
+9.1,18.9,helicopter
+8.3,12.59,helicopter
+7.9,18.46,helicopter
+10.0,8.49,helicopter
+7.8,13.27,helicopter
+9.1,12.41,helicopter
+9.5,12.8,helicopter
+9.8,15.51,helicopter
+8.1,9.78,helicopter
+9.0,14.74,helicopter
+9.3,16.15,helicopter
+9.3,8.0,helicopter
+8.4,10.3,helicopter
+8.5,10.05,helicopter
+9.4,18.77,helicopter
+7.6,18.44,helicopter
+8.6,19.64,helicopter
+9.0,19.65,helicopter
+7.7,10.89,helicopter
+8.9,9.72,helicopter
+9.3,1.21,war sprint
+9.8,1.41,war sprint
+9.8,1.4,war sprint
+9.8,1.66,war sprint
+9.2,1.12,war sprint
+9.1,1.04,war sprint
+9.1,1.56,war sprint
+9.0,1.15,war sprint
+9.3,1.28,war sprint
+9.1,1.87,war sprint
+9.3,1.42,war sprint
+9.5,1.01,war sprint
+9.8,1.96,war sprint
+9.1,1.38,war sprint
+9.7,1.51,war sprint
+9.0,1.34,war sprint
+9.7,1.93,war sprint
+9.9,1.65,war sprint
+9.6,1.09,war sprint
+9.5,1.21,war sprint
+9.3,1.46,war sprint
+9.1,1.85,war sprint
+9.4,1.11,war sprint
+9.4,1.92,war sprint
+9.5,1.79,war sprint
+9.4,1.69,war sprint
+9.8,1.09,war sprint
+9.7,1.37,war sprint
+10.0,1.64,war sprint
+9.3,1.35,war sprint
+9.2,1.06,war sprint
+9.2,1.14,war sprint
+9.8,1.94,war sprint
+9.7,1.23,war sprint
+9.5,1.81,war sprint
+9.8,1.7,war sprint
+9.9,1.09,war sprint
+9.1,1.65,war sprint
+9.2,1.95,war sprint
+9.6,1.01,war sprint
+9.9,1.1,war sprint
+9.1,1.02,war sprint
+9.5,1.68,war sprint
+9.7,1.98,war sprint
+9.9,1.26,war sprint
+9.9,1.61,war sprint
+9.4,1.86,war sprint
+9.3,1.5,war sprint
+9.1,1.45,war sprint
+9.1,1.11,war sprint
+5.7,7.74,tank vibration
+7.2,5.39,tank vibration
+6.5,5.28,tank vibration
+6.7,5.97,tank vibration
+5.3,4.05,tank vibration
+7.1,4.59,tank vibration
+7.4,4.6,tank vibration
+5.8,5.6,tank vibration
+5.2,4.11,tank vibration
+5.8,4.87,tank vibration
+6.0,6.2,tank vibration
+5.8,5.92,tank vibration
+5.7,6.03,tank vibration
+5.6,4.88,tank vibration
+5.3,6.28,tank vibration
+7.3,4.64,tank vibration
+5.5,7.5,tank vibration
+5.9,9.51,tank vibration
+5.5,7.26,tank vibration
+5.4,9.88,tank vibration
+7.3,7.69,tank vibration
+7.5,8.44,tank vibration
+5.5,4.6,tank vibration
+6.6,5.17,tank vibration
+7.1,9.5,tank vibration
+6.7,6.39,tank vibration
+7.1,9.22,tank vibration
+6.1,9.1,tank vibration
+7.1,5.66,tank vibration
+6.3,7.58,tank vibration
+6.0,4.17,tank vibration
+5.7,6.21,tank vibration
+5.7,6.21,tank vibration
+7.1,8.6,tank vibration
+6.3,8.33,tank vibration
+5.7,7.48,tank vibration
+6.0,9.33,tank vibration
+7.5,8.44,tank vibration
+6.1,8.7,tank vibration
+6.3,5.82,tank vibration
+5.8,4.0,tank vibration
+7.2,5.65,tank vibration
+5.5,8.06,tank vibration
+5.1,5.98,tank vibration
+5.3,7.68,tank vibration
+6.1,5.99,tank vibration
+6.2,5.01,tank vibration
+5.7,6.65,tank vibration
+5.6,4.76,tank vibration
+6.1,7.68,tank vibration
+2.4,4.51,pendulum
+3.6,3.5,pendulum
+3.6,5.61,pendulum
+3.7,2.51,pendulum
+2.8,2.92,pendulum
+3.4,4.82,pendulum
+2.8,2.9,pendulum
+2.4,2.76,pendulum
+2.0,5.72,pendulum
+2.6,4.44,pendulum
+3.4,4.68,pendulum
+2.0,2.33,pendulum
+2.7,2.45,pendulum
+3.8,3.17,pendulum
+3.8,3.16,pendulum
+3.2,5.88,pendulum
+2.6,4.93,pendulum
+3.3,5.99,pendulum
+3.7,3.74,pendulum
+2.1,4.33,pendulum
+3.5,4.94,pendulum
+3.5,5.76,pendulum
+3.3,2.2,pendulum
+2.8,2.05,pendulum
+2.2,5.09,pendulum
+2.4,2.5,pendulum
+2.7,4.5,pendulum
+2.3,4.56,pendulum
+3.0,2.33,pendulum
+2.8,3.29,pendulum
+3.5,2.24,pendulum
+2.6,2.34,pendulum
+2.7,3.13,pendulum
+2.7,2.27,pendulum
+2.9,5.82,pendulum
+3.7,5.99,pendulum
+2.3,4.68,pendulum
+2.8,5.82,pendulum
+2.4,2.08,pendulum
+3.4,2.17,pendulum
+2.1,2.92,pendulum
+2.1,5.86,pendulum
+3.7,4.89,pendulum
+2.4,3.07,pendulum
+3.0,2.22,pendulum
+2.3,3.97,pendulum
+3.7,5.01,pendulum
+3.7,4.47,pendulum
+2.9,4.56,pendulum
+2.2,2.56,pendulum
+5.9,0.29,ball drop
+5.7,0.7,ball drop
+5.6,0.28,ball drop
+5.3,0.68,ball drop
+3.2,0.79,ball drop
+5.7,0.8,ball drop
+4.6,0.4,ball drop
+4.6,0.77,ball drop
+3.5,0.77,ball drop
+4.4,0.43,ball drop
+5.6,0.49,ball drop
+4.1,0.24,ball drop
+4.2,0.68,ball drop
+3.9,0.74,ball drop
+3.8,0.69,ball drop
+4.7,0.73,ball drop
+3.1,0.52,ball drop
+4.9,0.36,ball drop
+4.3,0.71,ball drop
+5.4,0.7,ball drop
+5.1,0.37,ball drop
+4.7,0.78,ball drop
+5.2,0.35,ball drop
+5.5,0.5,ball drop
+5.1,0.76,ball drop
+3.5,0.8,ball drop
+4.3,0.43,ball drop
+4.9,0.71,ball drop
+3.8,0.47,ball drop
+4.4,0.43,ball drop
+3.7,0.52,ball drop
+5.5,0.24,ball drop
+3.0,0.71,ball drop
+5.1,0.37,ball drop
+5.7,0.79,ball drop
+5.2,0.66,ball drop
+5.7,0.3,ball drop
+4.2,0.69,ball drop
+5.5,0.51,ball drop
+3.9,0.67,ball drop
+3.5,0.3,ball drop
+5.0,0.36,ball drop
+4.9,0.32,ball drop
+3.9,0.38,ball drop
+5.6,0.67,ball drop
+4.1,0.32,ball drop
+4.3,0.79,ball drop
+4.4,0.24,ball drop
+4.7,0.38,ball drop
+5.8,0.25,ball drop
+7.6,2.54,wheel spin
+7.6,1.99,wheel spin
+6.6,2.15,wheel spin
+5.6,1.46,wheel spin
+7.1,1.05,wheel spin
+5.9,2.22,wheel spin
+7.4,2.51,wheel spin
+5.9,2.97,wheel spin
+7.0,1.82,wheel spin
+6.7,1.36,wheel spin
+7.2,1.86,wheel spin
+5.3,1.24,wheel spin
+5.2,1.37,wheel spin
+6.4,2.91,wheel spin
+6.5,2.39,wheel spin
+7.1,1.33,wheel spin
+6.9,1.26,wheel spin
+6.5,1.25,wheel spin
+5.3,1.79,wheel spin
+5.8,2.55,wheel spin
+7.3,2.48,wheel spin
+6.2,1.12,wheel spin
+7.0,2.04,wheel spin
+6.7,2.81,wheel spin
+6.4,2.01,wheel spin
+7.5,1.98,wheel spin
+6.2,2.74,wheel spin
+6.7,1.11,wheel spin
+5.0,2.26,wheel spin
+7.8,2.84,wheel spin
+6.3,1.3,wheel spin
+7.7,2.38,wheel spin
+6.0,1.31,wheel spin
+7.4,2.48,wheel spin
+6.5,2.56,wheel spin
+6.5,2.62,wheel spin
+5.8,1.67,wheel spin
+5.6,1.94,wheel spin
+6.8,2.01,wheel spin
+7.2,2.16,wheel spin
+6.5,1.38,wheel spin
+5.8,2.07,wheel spin
+7.3,2.98,wheel spin
+5.1,2.34,wheel spin
+7.2,2.29,wheel spin
+7.0,1.4,wheel spin
+6.7,1.68,wheel spin
+7.4,1.06,wheel spin
+6.5,2.0,wheel spin
+6.4,1.86,wheel spin
+5.6,0.81,spring recoil
+4.1,0.49,spring recoil
+6.3,0.66,spring recoil
+5.6,0.8,spring recoil
+5.3,0.49,spring recoil
+6.4,0.61,spring recoil
+5.8,0.93,spring recoil
+4.5,0.52,spring recoil
+5.4,0.81,spring recoil
+5.4,0.42,spring recoil
+4.1,0.45,spring recoil
+4.6,0.74,spring recoil
+6.2,0.4,spring recoil
+6.4,0.55,spring recoil
+5.5,0.8,spring recoil
+5.8,0.64,spring recoil
+5.4,0.91,spring recoil
+4.1,0.59,spring recoil
+6.3,0.68,spring recoil
+5.7,0.62,spring recoil
+5.3,0.54,spring recoil
+5.0,0.92,spring recoil
+5.2,0.54,spring recoil
+4.9,0.49,spring recoil
+5.7,0.78,spring recoil
+6.2,0.57,spring recoil
+5.3,0.67,spring recoil
+4.5,0.49,spring recoil
+6.4,0.82,spring recoil
+5.1,0.88,spring recoil
+5.6,0.5,spring recoil
+4.4,0.73,spring recoil
+6.1,0.42,spring recoil
+5.5,0.64,spring recoil
+5.2,0.96,spring recoil
+6.1,0.85,spring recoil
+5.0,0.71,spring recoil
+4.5,0.62,spring recoil
+4.9,0.98,spring recoil
+5.6,0.82,spring recoil
+4.0,0.58,spring recoil
+6.0,0.77,spring recoil
+6.3,0.48,spring recoil
+6.4,0.41,spring recoil
+6.0,0.45,spring recoil
+5.6,0.46,spring recoil
+5.4,0.41,spring recoil
+6.2,0.61,spring recoil
+4.7,0.55,spring recoil
+4.3,0.65,spring recoil
+8.9,1.97,VR swing
+7.7,1.57,VR swing
+7.9,1.82,VR swing
+7.6,1.6,VR swing
+7.2,1.13,VR swing
+6.0,1.8,VR swing
+6.6,1.56,VR swing
+7.4,0.67,VR swing
+6.6,0.64,VR swing
+6.1,1.49,VR swing
+8.8,0.82,VR swing
+8.6,1.91,VR swing
+8.3,0.99,VR swing
+7.0,1.32,VR swing
+8.5,0.74,VR swing
+6.5,0.73,VR swing
+8.0,1.07,VR swing
+6.8,0.98,VR swing
+8.7,1.09,VR swing
+8.3,1.87,VR swing
+8.5,1.71,VR swing
+8.6,2.0,VR swing
+8.4,1.38,VR swing
+8.8,1.63,VR swing
+7.2,1.84,VR swing
+6.7,0.54,VR swing
+7.1,1.89,VR swing
+7.4,1.79,VR swing
+8.2,1.21,VR swing
+8.4,1.87,VR swing
+6.7,1.01,VR swing
+8.8,1.75,VR swing
+7.8,0.77,VR swing
+7.6,1.1,VR swing
+6.3,1.11,VR swing
+6.4,1.65,VR swing
+8.9,1.95,VR swing
+8.8,1.81,VR swing
+6.6,1.41,VR swing
+7.6,1.18,VR swing
+8.4,1.06,VR swing
+7.6,1.13,VR swing
+8.0,1.82,VR swing
+6.8,0.64,VR swing
+6.2,2.0,VR swing
+8.4,1.56,VR swing
+8.4,0.62,VR swing
+8.2,1.28,VR swing
+7.7,1.12,VR swing
+8.9,1.57,VR swing
+4.7,1.17,joystick shake
+2.5,1.28,joystick shake
+4.5,1.42,joystick shake
+4.3,1.34,joystick shake
+4.0,1.33,joystick shake
+4.9,0.63,joystick shake
+4.4,1.39,joystick shake
+3.6,1.18,joystick shake
+4.3,1.17,joystick shake
+3.4,1.24,joystick shake
+2.6,1.44,joystick shake
+3.6,0.81,joystick shake
+3.8,1.37,joystick shake
+2.7,1.21,joystick shake
+4.4,1.04,joystick shake
+4.2,1.13,joystick shake
+4.7,0.79,joystick shake
+4.5,1.09,joystick shake
+3.2,1.12,joystick shake
+4.1,0.52,joystick shake
+3.5,0.58,joystick shake
+4.8,0.59,joystick shake
+2.9,1.11,joystick shake
+3.6,1.27,joystick shake
+4.4,0.57,joystick shake
+3.8,1.2,joystick shake
+4.5,0.82,joystick shake
+4.6,1.37,joystick shake
+2.7,0.94,joystick shake
+3.2,1.05,joystick shake
+2.8,1.14,joystick shake
+4.4,1.43,joystick shake
+2.5,1.26,joystick shake
+3.2,1.21,joystick shake
+3.8,0.58,joystick shake
+4.3,0.94,joystick shake
+3.2,0.94,joystick shake
+3.3,0.86,joystick shake
+3.3,0.85,joystick shake
+2.8,1.42,joystick shake
+3.8,1.46,joystick shake
+3.4,1.1,joystick shake
+2.7,0.53,joystick shake
+3.9,0.84,joystick shake
+3.5,1.19,joystick shake
+3.8,0.95,joystick shake
+4.5,0.54,joystick shake
+4.8,0.97,joystick shake
+3.3,0.87,joystick shake
+4.5,0.79,joystick shake
+6.1,0.53,motion controller flick
+5.6,1.11,motion controller flick
+4.5,0.97,motion controller flick
+4.8,0.6,motion controller flick
+5.7,0.74,motion controller flick
+5.5,0.8,motion controller flick
+5.6,0.62,motion controller flick
+6.2,0.61,motion controller flick
+6.7,0.68,motion controller flick
+5.2,1.17,motion controller flick
+6.8,0.67,motion controller flick
+4.6,0.81,motion controller flick
+6.9,0.93,motion controller flick
+6.9,0.75,motion controller flick
+6.3,1.11,motion controller flick
+5.9,0.59,motion controller flick
+6.2,1.01,motion controller flick
+4.5,0.57,motion controller flick
+6.3,0.82,motion controller flick
+6.3,1.09,motion controller flick
+6.9,0.67,motion controller flick
+5.6,0.79,motion controller flick
+5.3,0.73,motion controller flick
+4.8,0.81,motion controller flick
+5.0,0.87,motion controller flick
+4.9,1.11,motion controller flick
+6.4,1.14,motion controller flick
+6.6,0.6,motion controller flick
+6.5,0.72,motion controller flick
+6.5,0.76,motion controller flick
+6.4,1.01,motion controller flick
+6.0,1.05,motion controller flick
+4.1,1.1,motion controller flick
+6.0,1.18,motion controller flick
+5.9,0.67,motion controller flick
+5.1,1.06,motion controller flick
+7.0,1.18,motion controller flick
+6.6,0.65,motion controller flick
+6.0,1.18,motion controller flick
+4.2,1.12,motion controller flick
+4.5,0.95,motion controller flick
+5.1,1.05,motion controller flick
+6.3,0.74,motion controller flick
+6.8,1.16,motion controller flick
+4.3,0.89,motion controller flick
+4.1,1.08,motion controller flick
+7.0,0.74,motion controller flick
+5.6,1.11,motion controller flick
+6.2,0.98,motion controller flick
+4.8,1.12,motion controller flick

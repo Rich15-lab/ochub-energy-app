@@ -1,0 +1,350 @@
+Timestamp,Voltage,Intensity,Energy,Error
+16:30:11,1.03,9.7,6.16,name 'smtpllib' is not defined
+16:31:06,3.07,1.2,0.38,name 'smtpllib' is not defined
+16:31:13,1.38,9.5,9.83,name 'smtpllib' is not defined
+16:31:28,3.24,9.4,4.42,name 'smtpllib' is not defined
+16:31:48,2.5,8.1,3.65,name 'smtpllib' is not defined
+16:32:04,1.95,8.7,2.22,name 'smtpllib' is not defined
+16:33:48,3.19,4.5,3.02,name 'smtpllib' is not defined
+16:38:08,3.29,1.8,1.22,name 'smtpllib' is not defined
+18:56:52,1.35,10.0,3.85,[Errno 60] Operation timed out
+18:57:26,2.54,8.9,10.86,[Errno 60] Operation timed out
+18:58:24,1.52,9.1,7.42,[Errno 60] Operation timed out
+18:58:39,0.7,10.0,8.05,[Errno 60] Operation timed out
+18:59:21,3.04,7.3,2.19,[Errno 60] Operation timed out
+18:59:42,2.88,9.1,3.55,[Errno 60] Operation timed out
+18:59:59,0.62,8.2,4.35,[Errno 60] Operation timed out
+22:19:32,3.09,7.3,4.02,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7b75568de3sm2867463276.3 - gsmtp')"
+22:19:38,3.14,5.7,3.53,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca8324bcesm20894107b3.45 - gsmtp')"
+22:19:43,0.61,9.0,2.56,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7b6ac89f7esm3009958276.24 - gsmtp')"
+22:20:13,3.27,9.5,3.99,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7b6ac6b9aesm3017330276.2 - gsmtp')"
+22:20:27,2.57,9.0,10.67,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca82f0083sm20809677b3.24 - gsmtp')"
+20:04:50,2.42,8.5,7.82,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70cb4471e82sm25778557b3.29 - gsmtp')"
+20:05:10,1.4,9.9,2.62,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70cca467fddsm18738707b3.114 - gsmtp')"
+07:40:58,1.44,8.4,5.46,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d69111c68sm637093276.18 - gsmtp')"
+07:41:26,3.23,1.6,0.8,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70dff022e95sm4334547b3.19 - gsmtp')"
+07:42:16,2.38,8.9,3.2,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d590bb560sm1259297276.17 - gsmtp')"
+07:44:42,2.59,9.0,9.4,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca82f3c1fsm30320867b3.25 - gsmtp')"
+07:45:16,1.73,8.2,3.03,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d5e8dda90sm999189276.2 - gsmtp')"
+07:45:56,1.2,8.4,8.86,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d769d4b4bsm111981276.31 - gsmtp')"
+07:46:56,1.1,9.2,8.28,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70def4742d0sm7632447b3.13 - gsmtp')"
+07:48:16,3.13,3.7,1.26,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d59be2ab3sm1218929276.9 - gsmtp')"
+07:48:39,0.61,8.4,2.48,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca835a7f0sm29912357b3.52 - gsmtp')"
+07:53:04,0.81,8.9,3.11,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca8363d0asm30016877b3.65 - gsmtp')"
+07:54:06,2.03,9.6,10.9,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d5a9a9220sm1141590276.52 - gsmtp')"
+08:16:48,1.62,9.6,3.65,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7b98f0c8b9sm3072558276.36 - gsmtp')"
+08:17:27,1.23,9.0,4.32,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70dff0227f3sm4458167b3.27 - gsmtp')"
+08:19:29,3.24,7.8,9.63,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d67ec405asm707381276.6 - gsmtp')"
+08:22:12,3.09,9.5,2.42,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d69111c68sm654512276.18 - gsmtp')"
+08:23:15,3.04,9.4,7.52,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d5953d711sm1249816276.33 - gsmtp')"
+08:23:32,0.8,9.4,8.13,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d734cab48sm233134276.55 - gsmtp')"
+08:23:48,2.34,9.7,6.21,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70df5e026f9sm5881587b3.96 - gsmtp')"
+08:25:34,2.26,8.8,7.92,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca82f86bfsm30052477b3.11 - gsmtp')"
+08:26:34,3.11,4.3,2.97,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70e08cf1a49sm2048187b3.121 - gsmtp')"
+08:27:08,0.51,9.6,4.46,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d69111c55sm658289276.23 - gsmtp')"
+08:27:27,1.53,9.3,6.37,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d5af2752csm1146210276.24 - gsmtp')"
+08:27:50,3.26,5.7,2.11,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70dfcd43deasm4817047b3.46 - gsmtp')"
+08:31:49,0.57,9.8,7.01,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca83538a5sm29878287b3.53 - gsmtp')"
+08:32:55,3.06,4.5,2.23,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7b6ac6b8f6sm4573858276.8 - gsmtp')"
+08:34:23,3.2,9.6,4.18,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca8357526sm30502367b3.61 - gsmtp')"
+08:34:56,0.64,9.3,6.84,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70df5e026f9sm5916267b3.96 - gsmtp')"
+08:35:09,2.73,10.0,12.25,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca82f11d6sm30298567b3.20 - gsmtp')"
+08:35:47,2.73,9.4,9.02,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca85318b3sm30235277b3.117 - gsmtp')"
+08:36:32,3.15,5.6,6.1,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d56bac74esm1373085276.41 - gsmtp')"
+08:37:07,1.87,8.5,2.51,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca834f098sm30191407b3.51 - gsmtp')"
+08:41:07,2.24,8.5,2.46,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca831d916sm30221807b3.41 - gsmtp')"
+08:42:31,2.02,9.9,9.01,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d6da553bcsm408604276.47 - gsmtp')"
+08:44:20,3.05,8.8,8.98,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca831de26sm30215367b3.44 - gsmtp')"
+08:46:08,2.98,8.7,3.13,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d64af6449sm809486276.22 - gsmtp')"
+08:47:28,1.92,8.6,9.2,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca852d5ccsm30096227b3.100 - gsmtp')"
+08:48:30,2.85,8.1,6.6,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca83538f8sm30350977b3.57 - gsmtp')"
+08:48:52,1.35,9.3,9.95,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca8507befsm30159337b3.90 - gsmtp')"
+08:49:48,2.24,9.5,11.11,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d6673da56sm761337276.32 - gsmtp')"
+08:50:34,3.14,4.7,3.74,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70e07dc91b9sm2362197b3.39 - gsmtp')"
+08:51:09,1.99,9.1,10.24,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d60604051sm946648276.13 - gsmtp')"
+08:52:45,3.07,7.0,4.69,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca82f8ac4sm30488567b3.5 - gsmtp')"
+08:57:15,2.96,10.0,7.55,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d5f4cc1b1sm970115276.10 - gsmtp')"
+08:57:36,2.83,9.9,3.71,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca852dee4sm30359067b3.113 - gsmtp')"
+08:57:48,3.16,9.0,10.08,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca8509360sm30405237b3.71 - gsmtp')"
+08:58:12,3.13,3.6,1.64,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d64af6449sm815656276.22 - gsmtp')"
+08:59:33,1.25,8.2,9.8,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca82f8aaesm30215027b3.2 - gsmtp')"
+09:00:14,2.59,9.7,3.01,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d56bac74esm1384681276.41 - gsmtp')"
+09:00:29,0.69,9.5,3.32,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d583f7f09sm1347361276.7 - gsmtp')"
+09:00:51,2.9,9.8,8.04,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d5f4cc173sm991617276.51 - gsmtp')"
+09:01:29,3.0,8.1,3.69,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca8508772sm30237227b3.82 - gsmtp')"
+09:02:10,1.05,8.2,3.16,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca8363a89sm30229887b3.64 - gsmtp')"
+09:04:28,1.38,8.9,2.89,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70e0c898441sm1628157b3.119 - gsmtp')"
+09:05:10,0.6,9.3,2.88,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d5af0b1ecsm1161925276.19 - gsmtp')"
+09:07:56,3.28,9.7,8.15,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70e03eaea79sm3480587b3.37 - gsmtp')"
+09:09:28,1.79,9.5,10.88,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca82f63e8sm30257627b3.9 - gsmtp')"
+09:09:53,2.03,9.1,4.6,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d69137c72sm686108276.3 - gsmtp')"
+09:12:18,2.22,9.1,5.78,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7b6adcc6e6sm4654363276.48 - gsmtp')"
+09:15:54,3.26,8.9,10.01,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70e0af2bc0dsm1858747b3.68 - gsmtp')"
+09:16:17,1.69,9.5,2.85,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70e0492a1e0sm3239097b3.83 - gsmtp')"
+09:16:39,3.07,2.8,1.47,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca83538cbsm30298347b3.55 - gsmtp')"
+09:17:02,2.6,9.2,6.85,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d781c4f0asm90908276.44 - gsmtp')"
+09:17:57,3.21,3.3,3.15,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca82f9e14sm30437557b3.23 - gsmtp')"
+09:18:13,3.26,4.1,3.28,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca852dcd6sm30102957b3.105 - gsmtp')"
+09:20:28,3.27,7.3,7.08,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca82f11d6sm30446587b3.20 - gsmtp')"
+09:20:48,1.94,8.2,3.28,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca852dcd6sm30111207b3.105 - gsmtp')"
+09:21:28,1.1,9.5,7.55,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d56bac74esm1394794276.41 - gsmtp')"
+09:21:55,3.01,1.1,1.17,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca8531e3asm30121407b3.94 - gsmtp')"
+09:22:09,0.79,8.2,6.03,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca82f3c1fsm30627247b3.25 - gsmtp')"
+09:25:48,1.3,8.9,3.74,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70e0c898441sm1701657b3.119 - gsmtp')"
+09:28:56,1.61,9.0,3.29,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70e0492a1e0sm3281367b3.83 - gsmtp')"
+09:29:08,3.27,5.7,1.51,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca8363d0asm30322107b3.65 - gsmtp')"
+09:29:54,1.33,8.8,6.51,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca82f63e8sm30327617b3.9 - gsmtp')"
+09:33:08,1.4,8.1,7.61,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca8548b75sm30525277b3.124 - gsmtp')"
+09:34:08,3.22,7.9,8.29,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d67ec405asm743339276.6 - gsmtp')"
+09:34:34,3.02,3.7,3.66,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca852db6fsm30322947b3.108 - gsmtp')"
+09:34:55,3.26,3.6,3.85,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70e0428aaccsm3478697b3.47 - gsmtp')"
+09:35:10,2.66,8.3,4.11,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70dee72873esm8265427b3.24 - gsmtp')"
+09:35:38,1.31,9.4,7.24,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70df304a7a7sm6762227b3.12 - gsmtp')"
+09:35:49,3.24,1.9,0.82,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70e0dc97522sm1533207b3.56 - gsmtp')"
+09:36:09,1.11,8.1,3.48,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70e0e7e11f0sm1500957b3.92 - gsmtp')"
+09:36:30,1.07,8.9,7.03,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca852d942sm30325227b3.102 - gsmtp')"
+09:38:56,1.54,9.4,6.2,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca831dc94sm30539527b3.43 - gsmtp')"
+09:39:09,3.14,4.5,5.38,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d696663ddsm669065276.21 - gsmtp')"
+09:40:38,0.81,8.9,7.39,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d58dac1c4sm1327660276.49 - gsmtp')"
+09:40:49,1.73,9.7,4.46,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d78aac656sm80154276.45 - gsmtp')"
+09:41:31,2.78,9.0,10.94,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca8548b75sm30555027b3.124 - gsmtp')"
+09:41:54,2.26,8.2,5.7,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca831d475sm30646477b3.36 - gsmtp')"
+09:42:08,2.08,9.2,6.49,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70e0e7e11f0sm1522107b3.92 - gsmtp')"
+09:42:28,1.63,9.5,9.5,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7b6ac6832bsm4644306276.1 - gsmtp')"
+09:43:27,1.35,8.6,7.18,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca831de26sm30414017b3.44 - gsmtp')"
+09:43:50,2.14,8.5,2.25,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca82f11d6sm30527997b3.20 - gsmtp')"
+09:44:35,3.15,6.3,3.12,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7b6ac6b8f6sm4607787276.8 - gsmtp')"
+09:45:08,1.57,9.0,7.65,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70dff0228cdsm4733797b3.67 - gsmtp')"
+09:45:38,1.63,8.9,6.32,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca831dc94sm30563197b3.43 - gsmtp')"
+09:46:09,3.18,4.0,3.82,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca8508993sm30720337b3.81 - gsmtp')"
+09:47:13,3.1,9.9,9.95,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca835a7f0sm30293177b3.52 - gsmtp')"
+09:47:56,1.54,8.7,8.09,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca852db6fsm30370137b3.108 - gsmtp')"
+09:49:49,2.11,8.4,8.69,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca852d5besm30335667b3.99 - gsmtp')"
+09:50:11,2.62,8.2,7.67,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70cca46801csm20784167b3.48 - gsmtp')"
+09:51:09,3.13,4.3,4.21,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca82f0062sm30394927b3.17 - gsmtp')"
+09:51:37,0.81,9.0,10.3,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca8507befsm30374667b3.90 - gsmtp')"
+09:52:41,3.19,3.5,3.55,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca852d92asm30441287b3.110 - gsmtp')"
+09:54:28,3.08,6.5,4.29,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca853167fsm30428747b3.111 - gsmtp')"
+09:54:49,1.25,9.3,6.23,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d590bb560sm1320178276.17 - gsmtp')"
+09:55:33,2.23,8.6,3.87,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d6c25907dsm524495276.12 - gsmtp')"
+09:55:54,0.53,8.3,6.06,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d769d4b4bsm172005276.31 - gsmtp')"
+09:56:36,1.17,9.4,7.75,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7b98f0c8b9sm3120089276.36 - gsmtp')"
+10:19:36,1.96,9.6,5.09,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca831c460sm30771807b3.33 - gsmtp')"
+10:20:20,1.11,9.4,6.3,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d7b4c9bdfsm16834276.37 - gsmtp')"
+10:20:32,3.1,9.1,2.41,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca85318b3sm30592737b3.117 - gsmtp')"
+10:21:40,3.28,7.8,6.2,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca83538f8sm30672217b3.57 - gsmtp')"
+10:21:55,2.64,9.9,10.59,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca8322411sm30731567b3.38 - gsmtp')"
+10:23:39,0.88,8.6,6.02,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca83538cbsm30531977b3.55 - gsmtp')"
+10:24:19,1.58,8.5,4.89,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7b84d803a9sm4165255276.38 - gsmtp')"
+10:25:43,3.18,7.1,6.5,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca850877dsm30736387b3.84 - gsmtp')"
+10:26:06,3.15,9.5,3.85,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca8507df1sm30359267b3.89 - gsmtp')"
+10:26:49,3.16,2.7,1.9,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70dfa18cb5bsm5693487b3.77 - gsmtp')"
+10:29:25,3.29,9.1,11.38,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70dfa3dd02asm5676217b3.30 - gsmtp')"
+10:30:21,3.02,2.6,2.21,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70e02c3df08sm4128777b3.107 - gsmtp')"
+10:31:11,1.82,9.2,8.33,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca831c44asm30613207b3.35 - gsmtp')"
+10:35:00,2.66,8.9,8.54,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d56bac74esm1429353276.41 - gsmtp')"
+10:35:37,1.18,9.5,6.7,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca8511a2bsm30360497b3.74 - gsmtp')"
+10:36:57,2.28,8.2,3.12,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d69137c72sm727884276.3 - gsmtp')"
+10:39:30,3.12,4.3,3.91,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70e1312785bsm978407b3.101 - gsmtp')"
+10:40:33,2.71,8.2,9.06,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca8549674sm30726377b3.123 - gsmtp')"
+10:43:27,2.53,9.6,8.64,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca852db6fsm30570907b3.108 - gsmtp')"
+10:44:00,3.01,7.0,8.51,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca83538a5sm30331587b3.53 - gsmtp')"
+10:44:21,0.78,10.0,12.35,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca8511a2bsm30392277b3.74 - gsmtp')"
+10:45:54,2.47,9.7,2.47,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70e1312785bsm1002337b3.101 - gsmtp')"
+10:46:16,2.6,9.4,10.01,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7b6acb197fsm4602598276.28 - gsmtp')"
+10:48:13,2.61,9.6,9.07,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d781c4f0asm134874276.44 - gsmtp')"
+13:45:14,3.1,7.9,6.04,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca835a7f0sm31160937b3.52 - gsmtp')"
+13:45:36,2.31,9.6,8.64,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d781c4f0asm217569276.44 - gsmtp')"
+13:47:24,2.9,9.6,11.04,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca82f0062sm31257867b3.17 - gsmtp')"
+13:48:16,3.23,4.4,4.69,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d5af0b1ecsm1294542276.19 - gsmtp')"
+13:48:59,0.88,9.7,9.51,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca852d9d8sm31546457b3.109 - gsmtp')"
+13:51:02,2.22,9.0,10.48,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7b7b083448sm4532351276.29 - gsmtp')"
+13:51:23,3.16,4.9,2.33,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7b6acb0afcsm4771267276.27 - gsmtp')"
+13:51:47,1.35,8.8,8.84,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d6673da56sm903414276.32 - gsmtp')"
+13:55:19,0.83,8.9,7.83,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70e0492a1e0sm4256877b3.83 - gsmtp')"
+13:55:21,0.92,8.2,4.43,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca82f0062sm31284627b3.17 - gsmtp')"
+13:55:38,2.63,9.2,6.35,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70e02c3df08sm4888867b3.107 - gsmtp')"
+13:56:01,3.28,9.3,6.46,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7b6adcc6e6sm4788149276.48 - gsmtp')"
+14:02:21,2.58,9.0,4.54,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca852d942sm31289607b3.102 - gsmtp')"
+14:07:43,3.04,1.5,0.77,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca82f0062sm31324537b3.17 - gsmtp')"
+14:12:37,0.77,8.5,4.29,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca8533f4fsm31383257b3.118 - gsmtp')"
+14:13:54,1.19,8.3,4.23,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d781c4f0asm231175276.44 - gsmtp')"
+14:14:18,1.7,9.1,9.6,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70e0f4857f2sm2413177b3.29 - gsmtp')"
+14:22:25,3.23,8.4,5.08,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca85318b3sm31466277b3.117 - gsmtp')"
+14:26:10,0.54,9.4,9.92,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca8362faasm31381417b3.62 - gsmtp')"
+21:44:14,0.7,9.7,5.38,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70e1312785bsm3193997b3.101 - gsmtp')"
+21:44:29,1.51,9.8,6.52,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70e12b10185sm3339497b3.104 - gsmtp')"
+21:45:14,2.55,8.8,7.26,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7b84d803a9sm4482791276.38 - gsmtp')"
+21:46:17,2.72,8.4,3.15,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca82f3c1fsm33114817b3.25 - gsmtp')"
+21:46:33,1.01,9.9,12.23,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca83222ddsm32969657b3.42 - gsmtp')"
+21:47:06,0.78,8.7,7.0,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7b6adcce03sm5000370276.50 - gsmtp')"
+21:47:13,0.85,9.6,8.83,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70e20b2cebcsm99847b3.53 - gsmtp')"
+21:49:42,0.54,8.5,4.59,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e7d748948edsm572441276.25 - gsmtp')"
+22:02:46,3.28,3.2,3.41,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70ca831dc94sm33016727b3.43 - gsmtp')"
+22:04:09,2.13,8.6,6.36,"(535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-70dedd066c3sm10905267b3.0 - gsmtp')"
+15:59:43,1.1,9.2,7.36,[Errno 60] Operation timed out
+16:01:23,0.98,8.7,6.44,[Errno 60] Operation timed out
+16:01:43,3.07,4.3,2.13,[Errno 60] Operation timed out
+16:02:23,1.01,8.6,2.84,[Errno 60] Operation timed out
+16:02:43,3.13,1.3,1.3,[Errno 60] Operation timed out
+16:03:03,3.22,3.6,1.31,[Errno 60] Operation timed out
+16:03:43,1.13,8.6,9.93,[Errno 60] Operation timed out
+16:04:03,3.02,2.8,1.54,[Errno 60] Operation timed out
+16:04:23,3.01,5.8,2.87,[Errno 60] Operation timed out
+17:10:20,3.21,8.1,2.88,[Errno 60] Operation timed out
+17:16:53,3.15,6.4,7.01,[Errno 60] Operation timed out
+17:20:20,2.21,9.6,8.16,[Errno 60] Operation timed out
+17:20:40,2.45,9.9,5.05,[Errno 60] Operation timed out
+17:21:20,0.81,9.0,6.93,[Errno 60] Operation timed out
+17:22:18,2.21,9.6,8.3,[Errno 60] Operation timed out
+17:46:20,0.87,8.9,4.98,[Errno 60] Operation timed out
+17:47:20,1.79,9.8,10.24,[Errno 60] Operation timed out
+18:01:32,3.05,1.4,0.8,[Errno 60] Operation timed out
+18:02:01,3.11,6.0,3.42,[Errno 60] Operation timed out
+18:02:40,2.26,9.1,6.19,[Errno 60] Operation timed out
+18:05:40,2.04,9.8,6.08,[Errno 60] Operation timed out
+18:07:40,2.28,9.7,5.87,[Errno 60] Operation timed out
+18:08:00,1.0,8.5,9.18,[Errno 60] Operation timed out
+18:08:20,1.78,8.3,6.31,[Errno 60] Operation timed out
+18:09:00,1.89,8.4,7.48,[Errno 60] Operation timed out
+18:10:40,2.52,9.3,11.58,[Errno 60] Operation timed out
+18:12:20,1.69,8.3,7.55,[Errno 60] Operation timed out
+18:13:00,0.94,8.3,8.88,[Errno 60] Operation timed out
+18:13:20,3.22,7.0,2.06,[Errno 60] Operation timed out
+18:21:40,2.95,8.5,5.99,[Errno 60] Operation timed out
+18:22:00,1.2,8.2,6.11,[Errno 60] Operation timed out
+18:25:32,2.79,8.2,3.16,[Errno 60] Operation timed out
+18:28:24,2.33,9.6,6.82,[Errno 60] Operation timed out
+18:30:00,1.59,9.2,4.74,[Errno 60] Operation timed out
+18:32:40,1.52,9.3,11.16,[Errno 60] Operation timed out
+18:33:00,3.02,1.9,1.52,[Errno 60] Operation timed out
+18:33:20,3.21,1.7,1.84,[Errno 60] Operation timed out
+18:33:42,0.79,10.0,12.05,[Errno 60] Operation timed out
+18:35:00,3.23,8.0,4.0,[Errno 60] Operation timed out
+18:36:00,3.17,7.9,4.11,[Errno 60] Operation timed out
+18:36:24,0.78,8.8,8.4,[Errno 60] Operation timed out
+18:38:20,3.13,7.2,5.29,[Errno 60] Operation timed out
+18:39:40,2.46,8.1,4.46,[Errno 60] Operation timed out
+18:43:40,0.52,8.9,10.1,[Errno 60] Operation timed out
+18:44:40,2.11,9.8,11.56,[Errno 60] Operation timed out
+18:45:20,3.01,9.9,3.17,[Errno 60] Operation timed out
+18:47:20,1.76,9.1,5.73,[Errno 60] Operation timed out
+18:47:40,1.73,8.8,9.86,[Errno 60] Operation timed out
+18:48:00,1.77,8.8,5.19,[Errno 60] Operation timed out
+18:54:01,2.46,8.9,10.19,[Errno 60] Operation timed out
+18:54:20,1.5,8.6,6.88,[Errno 60] Operation timed out
+18:54:40,1.66,8.9,9.57,[Errno 60] Operation timed out
+18:56:20,3.28,4.8,1.97,[Errno 60] Operation timed out
+18:56:42,2.62,9.8,8.28,[Errno 60] Operation timed out
+18:59:20,2.33,9.7,6.06,[Errno 60] Operation timed out
+19:00:00,2.5,10.0,10.2,[Errno 60] Operation timed out
+19:01:18,1.82,8.8,2.51,[Errno 60] Operation timed out
+19:02:18,3.19,6.3,1.95,[Errno 60] Operation timed out
+19:03:18,2.21,9.9,11.68,[Errno 60] Operation timed out
+19:03:58,3.19,3.8,4.52,[Errno 60] Operation timed out
+19:04:18,2.29,9.2,6.12,[Errno 60] Operation timed out
+19:04:58,2.81,8.5,7.99,[Errno 60] Operation timed out
+19:05:18,1.96,9.0,6.3,[Errno 60] Operation timed out
+19:05:38,2.12,9.9,6.88,[Errno 60] Operation timed out
+19:28:15,2.6,8.3,8.55,[Errno 60] Operation timed out
+19:28:38,1.88,8.5,6.21,[Errno 60] Operation timed out
+19:28:46,1.12,9.9,10.99,[Errno 60] Operation timed out
+19:30:26,2.99,8.7,3.83,[Errno 60] Operation timed out
+19:55:44,1.83,9.7,9.36,[Errno 60] Operation timed out
+19:59:08,2.17,8.2,4.55,[Errno 60] Operation timed out
+21:00:54,3.22,3.3,3.78,"[Errno 8] nodename nor servname provided, or not known"
+17:50:26,2.13,8.7,10.7,[Errno 60] Operation timed out
+17:50:46,3.11,3.0,3.33,[Errno 60] Operation timed out
+17:52:16,1.48,8.7,9.53,[Errno 60] Operation timed out
+17:52:56,2.29,9.6,6.14,[Errno 60] Operation timed out
+17:54:36,3.23,8.5,6.25,[Errno 60] Operation timed out
+17:54:56,2.25,9.5,8.69,[Errno 60] Operation timed out
+17:56:36,2.39,9.3,7.91,[Errno 60] Operation timed out
+17:59:36,3.11,2.5,2.56,[Errno 60] Operation timed out
+18:00:36,0.66,8.6,6.19,[Errno 60] Operation timed out
+18:01:56,3.24,7.4,7.84,[Errno 60] Operation timed out
+18:04:16,1.01,9.1,8.01,[Errno 60] Operation timed out
+18:14:56,1.88,8.4,9.79,[Errno 60] Operation timed out
+18:15:16,3.09,4.2,4.49,[Errno 60] Operation timed out
+18:16:16,1.51,8.4,7.01,[Errno 60] Operation timed out
+18:16:36,3.03,9.2,2.44,[Errno 60] Operation timed out
+18:20:40,1.67,8.9,8.32,[Errno 60] Operation timed out
+18:21:01,3.11,8.9,4.9,[Errno 60] Operation timed out
+18:22:00,1.55,9.8,11.37,[Errno 60] Operation timed out
+18:23:00,2.24,8.2,4.71,[Errno 60] Operation timed out
+18:24:20,2.59,8.3,4.61,[Errno 60] Operation timed out
+18:26:20,3.02,7.4,6.96,[Errno 60] Operation timed out
+18:27:00,1.05,8.5,5.06,[Errno 60] Operation timed out
+18:27:40,2.84,8.9,7.61,[Errno 60] Operation timed out
+18:29:40,1.34,9.5,5.08,[Errno 60] Operation timed out
+18:30:01,3.15,8.7,2.78,[Errno 60] Operation timed out
+18:31:40,2.0,8.3,3.86,[Errno 60] Operation timed out
+18:32:20,3.09,5.3,3.31,[Errno 60] Operation timed out
+18:32:40,0.78,8.9,3.96,[Errno 60] Operation timed out
+18:33:01,1.27,8.3,8.38,[Errno 60] Operation timed out
+18:33:40,3.24,4.3,3.14,[Errno 60] Operation timed out
+18:35:20,2.62,9.3,6.7,[Errno 60] Operation timed out
+18:35:40,2.96,9.1,10.1,[Errno 60] Operation timed out
+18:38:00,0.64,8.7,2.96,[Errno 60] Operation timed out
+18:39:20,2.88,9.4,4.0,[Errno 60] Operation timed out
+18:40:00,1.41,8.4,6.97,[Errno 60] Operation timed out
+07:01:33,0.86,9.8,2.79,"(421, b'4.3.0 Temporary System Problem. Try again later (10). For more information,\n4.3.0 go to\n4.3.0  https://support.google.com/a/answer/3221692 3f1490d57ef6-e820e2be2f5sm3476031276.29 - gsmtp')"
+13:05:25,1.56,9.0,2.34,[Errno 60] Operation timed out
+13:07:55,2.5,9.9,3.51,[Errno 60] Operation timed out
+13:08:16,1.84,9.4,5.26,[Errno 60] Operation timed out
+13:08:35,2.75,9.0,3.6,[Errno 60] Operation timed out
+13:09:15,3.24,8.0,2.24,[Errno 60] Operation timed out
+13:10:35,3.07,4.6,4.05,[Errno 60] Operation timed out
+13:11:55,3.03,8.8,3.34,[Errno 60] Operation timed out
+13:17:15,1.37,9.1,6.55,[Errno 60] Operation timed out
+13:17:35,2.97,9.5,4.18,[Errno 60] Operation timed out
+13:18:35,0.56,9.2,10.07,[Errno 60] Operation timed out
+13:18:59,0.64,9.8,6.37,[Errno 60] Operation timed out
+13:21:55,3.11,1.8,1.69,[Errno 60] Operation timed out
+13:22:35,1.93,9.7,4.27,[Errno 60] Operation timed out
+13:23:55,1.6,8.3,6.76,[Errno 60] Operation timed out
+13:24:35,3.21,1.2,0.36,[Errno 60] Operation timed out
+13:38:23,3.03,5.6,2.44,[Errno 60] Operation timed out
+13:39:35,2.51,8.6,10.02,[Errno 60] Operation timed out
+13:39:56,1.52,9.1,4.82,[Errno 60] Operation timed out
+13:55:29,2.08,9.8,4.75,[Errno 60] Operation timed out
+14:10:11,1.08,8.2,6.27,[Errno 60] Operation timed out
+14:10:32,1.85,8.7,3.04,[Errno 60] Operation timed out
+16:14:43,1.54,9.8,9.75,[Errno 60] Operation timed out
+16:15:42,2.97,9.1,9.87,[Errno 60] Operation timed out
+16:17:03,3.29,2.4,0.67,[Errno 60] Operation timed out
+16:17:43,3.1,9.8,12.1,[Errno 60] Operation timed out
+16:18:03,1.17,9.4,7.52,[Errno 60] Operation timed out
+16:19:03,3.2,5.6,1.93,[Errno 60] Operation timed out
+16:19:23,2.97,9.0,5.13,[Errno 60] Operation timed out
+16:34:04,1.54,9.8,4.75,[Errno 60] Operation timed out
+17:19:43,3.06,7.4,6.81,[Errno 60] Operation timed out
+17:21:43,2.16,8.3,9.01,[Errno 60] Operation timed out
+17:23:43,1.68,9.0,7.51,[Errno 60] Operation timed out
+17:24:43,3.05,2.7,1.35,[Errno 60] Operation timed out
+17:26:43,1.77,8.8,5.81,[Errno 60] Operation timed out
+17:27:23,1.68,9.3,9.35,[Errno 60] Operation timed out
+17:27:43,3.05,10.0,6.0,[Errno 60] Operation timed out
+17:28:23,3.07,9.2,6.07,[Errno 60] Operation timed out
+17:29:23,1.12,8.7,8.96,[Errno 60] Operation timed out
+17:31:03,2.65,9.0,9.22,[Errno 60] Operation timed out
+17:31:23,3.19,4.8,3.43,[Errno 60] Operation timed out
+17:32:23,1.45,8.9,3.25,[Errno 60] Operation timed out
+18:02:03,2.36,9.0,3.46,[Errno 60] Operation timed out
+18:03:23,3.18,2.0,0.62,[Errno 60] Operation timed out
+18:09:03,3.05,2.4,1.37,[Errno 60] Operation timed out
+18:09:43,3.29,5.0,1.7,[Errno 60] Operation timed out
+18:10:03,3.17,8.2,9.76,[Errno 60] Operation timed out
+18:10:43,1.78,9.3,11.62,[Errno 60] Operation timed out
+18:11:24,3.04,1.5,0.83,[Errno 60] Operation timed out
+18:12:23,3.15,4.7,4.02,[Errno 60] Operation timed out
+18:13:23,3.08,7.2,4.39,[Errno 60] Operation timed out
+18:14:03,2.57,9.3,5.72,[Errno 60] Operation timed out
+18:14:25,3.27,7.9,7.19,[Errno 60] Operation timed out
+18:17:24,3.1,3.8,3.04,[Errno 60] Operation timed out
+12:34:39,2.75,9.0,8.69,"[Errno 8] nodename nor servname provided, or not known"
+16:08:11,2.12,8.5,3.36,[Errno 60] Operation timed out
+16:08:30,2.04,9.9,10.25,[Errno 60] Operation timed out
+16:08:40,3.13,7.8,4.29,[Errno 60] Operation timed out
+16:10:29,3.09,4.3,1.94,[Errno 60] Operation timed out
+01:50:29,3.06,7.4,2.59,"(454, b'4.7.0 Cannot authenticate due to temporary system problem. Try again later.\n4.7.0 For more information, go to\n4.7.0  https://support.google.com/a/answer/3221692 3f1490d57ef6-e85fad450f7sm1254400276.23 - gsmtp')"
